@@ -1,4 +1,4 @@
-### Category Name 1 
+### Projects 
 
 [User Level Thread Library](https://harb7nger.github.io/User-Level-Thread-Library/)
 A simple implementation of user level thread library and scheduling.
