@@ -1,3 +1,10 @@
+### About me
+A motivated individual, with a strong emphasis on learning.
+I like working on problems which are based on my skills and push me to explore what is beyond.
+Looking forward to update this page with more projets.
+
+Thanks for dropping by.
+
 ### Projects 
 
 [User Level Thread Library](https://harb7nger.github.io/User_Level_Thread_Library/)
