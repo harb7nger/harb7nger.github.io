@@ -1,7 +1,7 @@
 ### About me
 A motivated individual, with a strong emphasis on learning.
 I like working on problems which test my skills and push me to explore.
-Looking forward to update this page with more projets.
+Looking forward to update this page with more projects.
 
 Thanks for dropping by.
 
